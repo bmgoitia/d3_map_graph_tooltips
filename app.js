@@ -38,12 +38,9 @@ function ready(error, topo){
 
   var colorScale = d3.scaleQuantize() // try d3.scaleThreshold()
   .domain([10, 100])  // set your own domain: [10, 25, 40...]
-  .range(d3.schemeBlues[7]);  // same as:
+  .range(d3.schemeBlues[7]);  
 
-  /* .range(["#eff3ff","#c6dbef","#9ecae1","#6baed6","#4292c6","#2171b5","#084594"]) 
-  
-  Si lo haces de esta manera, luego puedes hacer una leyenda a mano pasando mucho de D3
-  */
+ 
 
 
 
