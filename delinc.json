@@ -1,0 +1,788 @@
+
+
+[
+  {
+    "id": "TOT",
+    "label": "Total",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 70
+        },
+        {
+          "year": 2001,
+          "crimes": 50
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 230
+        },
+        {
+          "year": 2004,
+          "crimes": 140
+        },
+        {
+          "year": 2005,
+          "crimes": 180
+        },
+        {
+          "year": 2006,
+          "crimes": 220
+        }
+      ]
+  },
+
+
+
+  {
+    "id": "AND",
+    "label": "Andalucía",
+    "code": "ES61",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+  {
+    "id": "CAT",
+    "label": "Catalunya",
+    "code": "ES51",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 150
+        },
+        {
+          "year": 2001,
+          "crimes": 200
+        },
+        {
+          "year": 2002,
+          "crimes": 130
+        },
+        {
+          "year": 2003,
+          "crimes": 70
+        },
+        {
+          "year": 2004,
+          "crimes": 100
+        },
+        {
+          "year": 2005,
+          "crimes": 130
+        },
+        {
+          "year": 2006,
+          "crimes": 150
+        }
+      ]
+  },
+
+
+
+  {
+    "id": "MAD",
+    "label": "Madrid",
+    "code": "ES30",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 300
+        },
+        {
+          "year": 2001,
+          "crimes": 380
+        },
+        {
+          "year": 2002,
+          "crimes": 270
+        },
+        {
+          "year": 2003,
+          "crimes": 300
+        },
+        {
+          "year": 2004,
+          "crimes": 275
+        },
+        {
+          "year": 2005,
+          "crimes": 250
+        },
+        {
+          "year": 2006,
+          "crimes": 265
+        }
+      ]
+  },
+
+
+
+  {
+    "id": "GAL",
+    "label": "Galicia",
+    "code": "ES11",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+  {
+    "id": "AST",
+    "label": "Asturias",
+    "code": "ES12",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "CAN",
+    "label": "Cantabria",
+    "code": "ES13",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "EUS",
+    "label": "Euskadi",
+    "code": "ES21",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+  {
+    "id": "NAV",
+    "label": "Navarra",
+    "code": "ES22",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+  {
+    "id": "LRI",
+    "label": "La Rioja",
+    "code": "ES23",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "ARA",
+    "label": "Aragón",
+    "code": "ES24",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "CLE",
+    "label": "Castilla y León",
+    "code": "ES41",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "CLM",
+    "label": "Castilla la Mancha",
+    "code": "ES42",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "EXT",
+    "label": "Extremadura",
+    "code": "ES43",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "VAL",
+    "label": "Comunidad Valenciana",
+    "code": "ES52",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "BAL",
+    "label": "Baleares",
+    "code": "ES53",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "MUR",
+    "label": "Murcia",
+    "code": "ES62",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "CEU",
+    "label": "Ceuta",
+    "code": "ES63",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "MEL",
+    "label": "Melilla",
+    "code": "ES64",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  },
+
+
+
+
+
+  {
+    "id": "CNR",
+    "label": "Canarias",
+    "code": "ES70",
+    "num": [
+        {
+          "year": 2000,
+          "crimes": 50
+        },
+        {
+          "year": 2001,
+          "crimes": 150
+        },
+        {
+          "year": 2002,
+          "crimes": 200
+        },
+        {
+          "year": 2003,
+          "crimes": 130
+        },
+        {
+          "year": 2004,
+          "crimes": 240
+        },
+        {
+          "year": 2005,
+          "crimes": 380
+        },
+        {
+          "year": 2006,
+          "crimes": 420
+        }
+      ]
+  }
+  
+
+]
