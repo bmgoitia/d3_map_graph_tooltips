@@ -25,8 +25,8 @@ var svg = d3.select("#mapLV")
 // Load external data 
 
 d3.queue()
-	.defer(d3.json, "https://cdn.jsdelivr.net/gh/bmgoitia/D3_map_graph@main/ESP_ccaa.json")
-	.defer(d3.csv, "https://cdn.jsdelivr.net/gh/bmgoitia/D3_map_graph@main/crimes.csv", function(d) {
+	.defer(d3.json, "/ESP_ccaa.json")
+	.defer(d3.csv, "/crimes.csv", function(d) {
 		data.set(d.code, +d.crimes);
 	})
 	.await(ready);
